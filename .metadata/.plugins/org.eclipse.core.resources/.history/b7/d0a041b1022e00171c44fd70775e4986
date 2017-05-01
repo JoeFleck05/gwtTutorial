@@ -1,0 +1,5 @@
+package de.jfleck.gwt.helloserver.client.service;
+
+public class MyUserCallback {
+
+}

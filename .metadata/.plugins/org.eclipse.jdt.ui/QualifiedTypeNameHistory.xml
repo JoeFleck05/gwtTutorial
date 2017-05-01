@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.google.gwt.event.dom.client.ClickHandler"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.rpc.RemoteService"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.rpc.RemoteServiceRelativePath"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.rpc.AsyncCallback"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.server.rpc.RemoteServiceServlet"/>
+<fullyQualifiedTypeName name="de.jfleck.gwt.helloserver.client.service.MyUserService"/>
+<fullyQualifiedTypeName name="de.jfleck.gwt.helloserver.client.model.MyUser"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
