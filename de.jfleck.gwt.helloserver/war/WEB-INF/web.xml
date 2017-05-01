@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
-              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
-         version="2.5"
-         xmlns="http://java.sun.com/xml/ns/javaee">
-
-  <!-- Default page to serve -->
+xmlns="http://java.sun.com/xml/ns/javaee"
+xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+	<!-- Default page to serve -->
   <welcome-file-list>
     <welcome-file>De_jfleck_gwt_helloserver.html</welcome-file>
   </welcome-file-list>
@@ -21,5 +19,4 @@
     <servlet-name>userServlet</servlet-name>
     <url-pattern>/de_jfleck_gwt_helloserver/userService</url-pattern>
   </servlet-mapping>
-
 </web-app>

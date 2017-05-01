@@ -2,7 +2,9 @@ package de.jfleck.gwt.helloserver.server;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
+
 import de.jfleck.gwt.helloserver.client.model.MyUser;
 import de.jfleck.gwt.helloserver.client.service.MyUserService;
 

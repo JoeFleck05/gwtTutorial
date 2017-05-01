@@ -1,5 +1,0 @@
-package de.jfleck.gwt.helloserver.client;
-
-public class MyUser {
-
-}

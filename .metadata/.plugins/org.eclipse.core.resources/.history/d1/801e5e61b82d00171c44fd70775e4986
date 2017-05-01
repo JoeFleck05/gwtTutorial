@@ -1,7 +1,0 @@
-package de.jfleck.gwt.helloserver.client.service;
-
-import com.google.gwt.user.client.rpc.RemoteService;
-
-public interface MyUserService extends RemoteService {
-
-}

@@ -1,5 +1,0 @@
-package de.jfleck.gwt.helloserver.client.entrypoint;
-
-public class HelloServer implements EntryPoint {
-
-}

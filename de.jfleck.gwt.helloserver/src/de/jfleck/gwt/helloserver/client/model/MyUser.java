@@ -2,8 +2,8 @@ package de.jfleck.gwt.helloserver.client.model;
 
 import java.io.Serializable;
 
-public class MyUser implements Serializable {
-	private static final long serialVersionUID = 1L;
+public class MyUser implements Serializable{
+	private static final long serialVersionID = 1L;
 	
 	private String id;
 	private String username;
@@ -29,11 +29,13 @@ public class MyUser implements Serializable {
 		return numberOfHits;
 	}
 	
+	/**
+     * @param numberOfHits
+     *            the numberOfHits to set
+     */
+	
 	public void setNumberOfHits(String numberOfHits) {
 		this.numberOfHits = numberOfHits;
 	}
-	
-	
-	
 
 }
