@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;de.vogella.gwt.helloserver&apos;" deleteContents="true" description="Delete resource &apos;de.vogella.gwt.helloserver&apos;" element1="/de.vogella.gwt.helloserver" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1493603929646"/>
+</session>
