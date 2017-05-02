@@ -9,3 +9,6 @@
 1493679150863	Move file
 1493679274894	Move file
 1493679428554	Rename package 'de.jfleck.gwt.helloworld'
+1493680219973	Rename resource 'de_vogella_gwt_helloserver.devmode.js'
+1493680233761	Rename resource 'de_vogella_gwt_helloserver.nocache.js'
+1493680377194	Delete element

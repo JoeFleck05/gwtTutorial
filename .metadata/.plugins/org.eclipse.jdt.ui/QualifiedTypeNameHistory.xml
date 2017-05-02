@@ -5,9 +5,10 @@
 <fullyQualifiedTypeName name="com.google.gwt.user.client.rpc.RemoteServiceRelativePath"/>
 <fullyQualifiedTypeName name="de.jfleck.gwt.helloserver.client.model.MyUser"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.google.gwt.user.client.rpc.AsyncCallback"/>
 <fullyQualifiedTypeName name="com.google.gwt.user.server.rpc.RemoteServiceServlet"/>
 <fullyQualifiedTypeName name="de.jfleck.gwt.helloserver.client.service.MyUserService"/>
+<fullyQualifiedTypeName name="com.google.gwt.core.client.EntryPoint"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package jfleck.gwt.helloserver.client;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import jfleck.gwt.helloserver.MyUser;
+
+public class DataSource {
+
+}

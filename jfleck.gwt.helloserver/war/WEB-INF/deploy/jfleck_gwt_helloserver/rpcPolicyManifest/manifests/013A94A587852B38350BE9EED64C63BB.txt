@@ -1,0 +1,2 @@
+serviceClass: jfleck.gwt.helloserver.client.MyUserService
+path: CEAB8E657C22A70959F378C849A0A147.gwt.rpc

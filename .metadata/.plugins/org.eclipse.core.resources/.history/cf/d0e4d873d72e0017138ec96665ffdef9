@@ -1,0 +1,5 @@
+package jfleck.gwt.helloserver.server;
+
+public class MyUserServiceImpl {
+
+}
