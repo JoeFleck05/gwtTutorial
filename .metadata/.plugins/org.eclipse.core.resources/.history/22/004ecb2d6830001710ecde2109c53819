@@ -8,7 +8,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <link type="text/css" rel="stylesheet" href="Jfleck_gwt_helloserver.css">
-    <!-- <title>Web Application Starter Project</title> -->
+    <title>Web Application Starter Project</title>
     
     <script type="text/javascript" language="javascript" src="jfleck_gwt_helloserver/jfleck_gwt_helloserver.nocache.js"></script>
   </head>
@@ -28,12 +28,12 @@
       </div>
     </noscript>
 
-    <h1>Client and Server Communication Example (RPC)</h1>
+    <h1>Web Application Starter Project</h1>
 
     <table align="center">
-      <!-- <tr>
+      <tr>
         <td colspan="2" style="font-weight:bold;">Please enter your name:</td>        
-      </tr> -->
+      </tr>
       <tr>
         <td id="nameFieldContainer"></td>
         <td id="sendButtonContainer"></td>

@@ -28,12 +28,12 @@
       </div>
     </noscript>
 
-    <h1>Client and Server Communication Example (RPC)</h1>
+    <h1>Web Application Starter Project</h1>
 
     <table align="center">
-      <!-- <tr>
+      <tr>
         <td colspan="2" style="font-weight:bold;">Please enter your name:</td>        
-      </tr> -->
+      </tr>
       <tr>
         <td id="nameFieldContainer"></td>
         <td id="sendButtonContainer"></td>
