@@ -11,4 +11,5 @@
 <fullyQualifiedTypeName name="de.jfleck.gwt.helloserver.client.service.MyUserService"/>
 <fullyQualifiedTypeName name="com.google.gwt.core.client.EntryPoint"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.Composite"/>
 </qualifiedTypeNameHistroy>

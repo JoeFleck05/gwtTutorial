@@ -1,0 +1,6 @@
+package jfleck.gwt.uibinder.client;
+
+import com.google.gwt.user.client.ui.Composite;
+
+
+}

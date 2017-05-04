@@ -2619,3 +2619,27 @@ Binding(ALT+SHIFT+D R,
 
 !ENTRY com.android.ide.eclipse.adt 1 0 2017-05-03 21:27:31.042
 !MESSAGE No valid Android XML Editor Delegate found for file /jfleck.gwt.helloserver/src/jfleck/gwt/helloserver/Jfleck_gwt_helloserver.gwt.xml [Res null, type null]
+
+!ENTRY com.google.gwt.eclipse.core 1 0 2017-05-03 21:31:47.358
+!MESSAGE Reset default editor for extension: xml
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-05-03 21:31:55.597
+!MESSAGE No repository found at http://download.eclipse.org/tools/orbit/downloads.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-03 21:33:18.047
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-03 21:33:18.061
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-03 21:41:40.501
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-03 21:41:40.518
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-03 21:53:59.560
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-03 21:53:59.576
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
