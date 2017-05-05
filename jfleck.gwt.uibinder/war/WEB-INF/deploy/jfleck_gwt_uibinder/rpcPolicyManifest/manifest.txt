@@ -1,0 +1,2 @@
+# Module jfleck_gwt_uibinder
+# RPC service class, partial path of RPC policy file

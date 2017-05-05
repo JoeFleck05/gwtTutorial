@@ -1,0 +1,2 @@
+serviceClass: jfleck.gwt.uibinder.client.GreetingService
+path: D1BFFEA0B3008436DE2BC9A9004AB8A4.gwt.rpc
