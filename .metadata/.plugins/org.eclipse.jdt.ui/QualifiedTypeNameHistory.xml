@@ -15,4 +15,8 @@
 <fullyQualifiedTypeName name="com.google.gwt.uibinder.client.UiBinder"/>
 <fullyQualifiedTypeName name="com.google.gwt.user.client.ui.Composite"/>
 <fullyQualifiedTypeName name="com.google.gwt.user.client.ui.Widget"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.Window"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.RootPanel"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.VerticalPanel"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.DecoratorPanel"/>
 </qualifiedTypeNameHistroy>
