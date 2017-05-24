@@ -4,7 +4,6 @@ import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.user.client.ui.Button;
-import com.google.gwt.user.client.ui.FlowPanel;
 import com.google.gwt.user.client.ui.ListBox;
 import com.google.gwt.user.client.ui.RootPanel;
 
@@ -16,10 +15,6 @@ public class JoeGWTTutorials implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-		
-		//create flowpanel
-		FlowPanel fPanel = new FlowPanel();
-		
 		// array of names
 		String[] listOfNames = {"Nancy","Joe","Julia","Jared","Nathan"};
 		// create and add list box
@@ -44,9 +39,7 @@ public class JoeGWTTutorials implements EntryPoint {
 	      }
 	   });
 
-	   fPanel.add(listBox);
-//	   RootPanel.get("gwtMyList").add(listBox);
-	   RootPanel.
+	   RootPanel.get("gwtMyList").add(listBox);
 	   
 	   RootPanel.get("gwtGreenButton").add(Btn1);
 	   RootPanel.get("gwtRedButton").add(Btn2);

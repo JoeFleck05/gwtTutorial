@@ -46,7 +46,6 @@ public class JoeGWTTutorials implements EntryPoint {
 
 	   fPanel.add(listBox);
 //	   RootPanel.get("gwtMyList").add(listBox);
-	   RootPanel.
 	   
 	   RootPanel.get("gwtGreenButton").add(Btn1);
 	   RootPanel.get("gwtRedButton").add(Btn2);

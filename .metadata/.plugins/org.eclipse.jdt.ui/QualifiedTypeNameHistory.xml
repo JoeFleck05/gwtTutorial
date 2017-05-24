@@ -19,4 +19,6 @@
 <fullyQualifiedTypeName name="com.google.gwt.user.client.ui.RootPanel"/>
 <fullyQualifiedTypeName name="com.google.gwt.user.client.ui.VerticalPanel"/>
 <fullyQualifiedTypeName name="com.google.gwt.user.client.ui.DecoratorPanel"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.ListBox"/>
+<fullyQualifiedTypeName name="com.google.gwt.user.client.ui.FlowPanel"/>
 </qualifiedTypeNameHistroy>

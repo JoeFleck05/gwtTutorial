@@ -4,7 +4,6 @@ import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.user.client.ui.Button;
-import com.google.gwt.user.client.ui.FlowPanel;
 import com.google.gwt.user.client.ui.ListBox;
 import com.google.gwt.user.client.ui.RootPanel;
 
@@ -16,18 +15,6 @@ public class JoeGWTTutorials implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-		
-		//create flowpanel
-		FlowPanel fPanel = new FlowPanel();
-		
-		// array of names
-		String[] listOfNames = {"Nancy","Joe","Julia","Jared","Nathan"};
-		// create and add list box
-	   ListBox listBox = new ListBox();
-	   for(String listOfName : listOfNames){
-		   listBox.addItem(listOfName);   
-	   }
-		   
 		// add button to change font to big when clicked.
 	   Button Btn1 = new Button("Big Text");
 	   Btn1.addClickHandler(new ClickHandler() {
@@ -43,13 +30,18 @@ public class JoeGWTTutorials implements EntryPoint {
 	         RootPanel.get("mytext").setStyleName("gwt-Small-Text");
 	      }
 	   });
-
-	   fPanel.add(listBox);
-//	   RootPanel.get("gwtMyList").add(listBox);
-	   RootPanel.
 	   
+	   // create and add list box
+	   String[] listOfNames = {"Nancy","Joe","Julia","Jared","Nathan"};
+	   ListBox listBox = new ListBox();
+	   listBox.addItem("Joe");
+	   listBox.addItem("Nancy");
+	   listBox.addItem("Julia");
+	   listBox.addItem("Jared");
+	   listBox.addItem("Nathan");
+
 	   RootPanel.get("gwtGreenButton").add(Btn1);
 	   RootPanel.get("gwtRedButton").add(Btn2);
-	   
+	   RootPanel.get("gwtMyList").add(listBox);
 	}
 }
