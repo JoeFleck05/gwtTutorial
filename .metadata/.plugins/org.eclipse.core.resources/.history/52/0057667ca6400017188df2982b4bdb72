@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Hello World</title>
+   <link type="text/css" rel="stylesheet" href="JoeGWTTutorials.css">
+   <script type="text/javascript" language="javascript" src="joegwttutorials/joegwttutorials.nocache.js"></script>
+   </script>
+</head>
+<body>
+
+<div id="mytext"><h1>Hello, World!</h1></div>
+<div id="gwtGreenButton"></div>
+<div id="gwtRedButton"></div>
+
+</body>
+</html>

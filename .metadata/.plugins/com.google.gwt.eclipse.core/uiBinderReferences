@@ -36,8 +36,14 @@
 </reference>
 </references>
 </referenceManager>
-<uiBinderSubtypeToOwner/>
-<uiBinderSubtypeToUiXml/>
+<uiBinderSubtypeToOwner>
+<entry owner="jfleck.gwt.uibinder.client.HelloWidgetWorld" uiBinder="=jfleck.gwt.uibinder/src&lt;jfleck.gwt.uibinder.client{HelloWidgetWorld.java[HelloWidgetWorld[MyUiBinder"/>
+<entry owner="jfleck.gwt.uibinder.client.MyHTMLTable" uiBinder="=jfleck.gwt.uibinder/src&lt;jfleck.gwt.uibinder.client{MyHTMLTable.java[MyHTMLTable[MyUiBinder"/>
+</uiBinderSubtypeToOwner>
+<uiBinderSubtypeToUiXml>
+<entry uiBinder="=jfleck.gwt.uibinder/src&lt;jfleck.gwt.uibinder.client{HelloWidgetWorld.java[HelloWidgetWorld[MyUiBinder" uiXmlPath="jfleck/gwt/uibinder/client/HelloWidgetWorld.ui.xml"/>
+<entry uiBinder="=jfleck.gwt.uibinder/src&lt;jfleck.gwt.uibinder.client{MyHTMLTable.java[MyHTMLTable[MyUiBinder" uiXmlPath="jfleck/gwt/uibinder/client/MyHTMLTable.ui.xml"/>
+</uiBinderSubtypeToUiXml>
 <uiXmlReferencedFields>
 <uiField location="/jfleck.gwt.uibinder/src/jfleck/gwt/uibinder/client/HelloWidgetWorld.ui.xml" name="submit"/>
 <uiField location="/jfleck.gwt.uibinder/src/jfleck/gwt/uibinder/client/HelloWidgetWorld.ui.xml" name="listBox"/>
